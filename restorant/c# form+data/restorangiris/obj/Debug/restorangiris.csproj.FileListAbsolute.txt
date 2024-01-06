@@ -1,0 +1,16 @@
+C:\Users\90552\source\repos\restorangiris\restorangiris\restorangiris\bin\Debug\restorangiris.exe.config
+C:\Users\90552\source\repos\restorangiris\restorangiris\restorangiris\bin\Debug\restorangiris.exe
+C:\Users\90552\source\repos\restorangiris\restorangiris\restorangiris\bin\Debug\restorangiris.pdb
+C:\Users\90552\source\repos\restorangiris\restorangiris\restorangiris\obj\Debug\restorangiris.csproj.AssemblyReference.cache
+C:\Users\90552\source\repos\restorangiris\restorangiris\restorangiris\obj\Debug\restorangiris.Form1.resources
+C:\Users\90552\source\repos\restorangiris\restorangiris\restorangiris\obj\Debug\restorangiris.Properties.Resources.resources
+C:\Users\90552\source\repos\restorangiris\restorangiris\restorangiris\obj\Debug\restorangiris.csproj.GenerateResource.cache
+C:\Users\90552\source\repos\restorangiris\restorangiris\restorangiris\obj\Debug\restorangiris.csproj.CoreCompileInputs.cache
+C:\Users\90552\source\repos\restorangiris\restorangiris\restorangiris\obj\Debug\restorangiris.exe
+C:\Users\90552\source\repos\restorangiris\restorangiris\restorangiris\obj\Debug\restorangiris.pdb
+C:\Users\90552\source\repos\restorangiris\restorangiris\restorangiris\bin\Debug\Database1.mdf
+C:\Users\90552\source\repos\restorangiris\restorangiris\restorangiris\bin\Debug\Database1_log.ldf
+C:\Users\90552\source\repos\restorangiris\restorangiris\restorangiris\obj\Debug\restorangiris.icerik.resources
+C:\Users\90552\Desktop\restorangiris\obj\Debug\restorangiris.csproj.AssemblyReference.cache
+C:\Users\90552\Desktop\restorangiris\obj\Debug\restorangiris.exe
+C:\Users\90552\Desktop\restorangiris\obj\Debug\restorangiris.pdb
