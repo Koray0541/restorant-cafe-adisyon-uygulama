@@ -14,3 +14,6 @@ C:\Users\90552\source\repos\restorangiris\restorangiris\restorangiris\obj\Debug\
 C:\Users\90552\Desktop\restorangiris\obj\Debug\restorangiris.csproj.AssemblyReference.cache
 C:\Users\90552\Desktop\restorangiris\obj\Debug\restorangiris.exe
 C:\Users\90552\Desktop\restorangiris\obj\Debug\restorangiris.pdb
+C:\Users\90552\Documents\GitHub\restorant-cafe-adisyon-uygulama\restorant\c# form+data\restorangiris\obj\Debug\restorangiris.csproj.AssemblyReference.cache
+C:\Users\90552\Documents\GitHub\restorant-cafe-adisyon-uygulama\restorant\c# form+data\restorangiris\obj\Debug\restorangiris.exe
+C:\Users\90552\Documents\GitHub\restorant-cafe-adisyon-uygulama\restorant\c# form+data\restorangiris\obj\Debug\restorangiris.pdb
