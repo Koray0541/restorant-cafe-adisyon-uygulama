@@ -1,7 +1,7 @@
 ﻿
-namespace restorangiris
+namespace RestoranOtomasyonu
 {
-    partial class icerik
+    partial class Form2
     {
         /// <summary>
         /// Required designer variable.
@@ -29,19 +29,32 @@ namespace restorangiris
         /// </summary>
         private void InitializeComponent()
         {
+            this.flpMasalar = new System.Windows.Forms.FlowLayoutPanel();
             this.SuspendLayout();
             // 
-            // icerik
+            // flpMasalar
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.flpMasalar.Location = new System.Drawing.Point(51, 60);
+            this.flpMasalar.Name = "flpMasalar";
+            this.flpMasalar.Size = new System.Drawing.Size(626, 520);
+            this.flpMasalar.TabIndex = 0;
+            // 
+            // Form2
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(803, 450);
-            this.Name = "icerik";
+            this.ClientSize = new System.Drawing.Size(806, 659);
+            this.Controls.Add(this.flpMasalar);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
+            this.Name = "Form2";
             this.Text = "icerik";
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private System.Windows.Forms.FlowLayoutPanel flpMasalar;
     }
 }

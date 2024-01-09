@@ -73,8 +73,12 @@
     <Compile Include="icerik.Designer.cs">
       <DependentUpon>icerik.cs</DependentUpon>
     </Compile>
+    <Compile Include="Masa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Urun.cs" />
+    <Compile Include="UrunHareket.cs" />
+    <Compile Include="ödeme.cs" />
     <EmbeddedResource Include="..\..\..\..\..\Desktop\korayform1.resx">
       <DependentUpon>korayform1.cs</DependentUpon>
     </EmbeddedResource>
